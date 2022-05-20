@@ -1,7 +1,7 @@
 ### Hey there. 👋 Glad you stopped by! 
 ---
 
-📫 ***Feel free to reach out:***
+####📫 Feel free to reach out:
 - ✨ Email: nolf.jerry@gmail.com
 - ✨ Click 👉 [here](https://www.linkedin.com/in/jerrynolf) 👈 for my LinkedIn
 --- 
@@ -12,18 +12,18 @@
 
 ---
 
-🔭 ***I’m currently working on: ***
+#### 🔭 I’m currently working on:
 - Completing the Codeup Data Science program.
 
 ---
 
-🌱 ***I’m currently learning ***
+#### 🌱 I’m currently learning...
 - Spark
 - Natural Language Processing
 
 ---
 
-👯 ***I’m looking to collaborate on projects that will allow me to strengthen my skills in:***
+#### 👯 I’m looking to collaborate on projects that will allow me to strengthen my skills in: 
 - ![Python](https://img.shields.io/badge/Language-Python-yellow)
 - ![Pandas](https://img.shields.io/badge/Python_Library-Pandas-blue)
 - ![Numpy](https://img.shields.io/badge/Python_Library-Numpy-purple)
@@ -31,8 +31,8 @@
 
 ----
 
-⚡ ***Fun fact ***
-####  - Did you know 111,111,111 x 111,111,111 = 12,345,678,987,654,321? 🤓
+#### ⚡ Fun fact:
+   Did you know 111,111,111 x 111,111,111 = 12,345,678,987,654,321? 🤓
 ---
 
 <h3 align="left">Languages and Tools:</h3>
