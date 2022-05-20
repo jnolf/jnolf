@@ -24,9 +24,12 @@
 --- 
 
 #### 🔭 I’m currently working on:
-- Completing the Codeup Data Science program.
+- Completing the Codeup Data Science program
+   -  Graduating June 16, 2022  🙌
 
----x
+- Getting more acquainted with Spark 
+
+---
 
 #### 🌱 I’m currently learning...
 - Spark
