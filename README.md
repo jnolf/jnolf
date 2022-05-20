@@ -2,8 +2,8 @@
 <h3 align="left">Data Scientist</h3>
 
 📫 ***Ways to Connect:***  
-- ✨ Click 👉 [here](https://www.linkedin.com/in/rachel-robbins-mayhill) 👈 for my LinkedIn
-- ✨ Email: rachel.robbinsmayhill@gmail.com
+- ✨ Click 👉 [here](https://www.linkedin.com/in/jerrynolf) 👈 for my LinkedIn
+- ✨ Email: nolf.jerry@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnolf&show_icons=true&locale=en&layout=compact" alt="jnolf" /></p>
 
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **nolf.jerry@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jerrynolf/](https://www.linkedin.com/in/jerrynolf/)
 
 - ⚡ Fun fact **111,111,111 x 111,111,111 = 12,345,678,987,654,321**
 
