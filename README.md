@@ -27,14 +27,12 @@
 - ![Python](https://img.shields.io/badge/Language-Python-yellow)
 - ![Pandas](https://img.shields.io/badge/Python_Library-Pandas-blue)
 - ![Numpy](https://img.shields.io/badge/Python_Library-Numpy-purple)
-- ![Sci-kit](https://img.shields.io/badge/Python_Library-Scikit-Learn-green)
 - ![SQL](https://img.shields.io/badge/Language-SQL-red)
 
 ----
 
 ⚡ ***Fun fact ***
-#### 111,111,111 x 111,111,111 = 12,345,678,987,654,321
-
+#### - Did you know 111,111,111 x 111,111,111 = 12,345,678,987,654,321? 🤓
 ---
 
 <h3 align="left">Languages and Tools:</h3>
