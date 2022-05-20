@@ -23,18 +23,18 @@
 
 ---
 
-***🔭 I’m currently working on: ***
+🔭 ***I’m currently working on: ***
 - Completing the Codeup Data Science program.
 
 ---
 
-***🌱 I’m currently learning ***
+🌱 ***I’m currently learning ***
 - Spark
 - Natural Language Processing
 
 ---
 
-***👯 I’m looking to collaborate on projects that will allow me to strengthen my skills in:***
+👯 ***I’m looking to collaborate on projects that will allow me to strengthen my skills in:***
 - Python
 - SQL
 - Pandas
@@ -42,7 +42,7 @@
 
 ----
 
-***⚡ Fun fact ***
+⚡ ***Fun fact ***
 #### 111,111,111 x 111,111,111 = 12,345,678,987,654,321
 
 ---
