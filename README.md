@@ -1,7 +1,7 @@
 ### Hey there. 👋 Glad you stopped by! 
 ---
 
-####📫 Feel free to reach out:
+📫 ***Feel free to reach out:***
 - ✨ Email: nolf.jerry@gmail.com
 - ✨ Click 👉 [here](https://www.linkedin.com/in/jerrynolf) 👈 for my LinkedIn
 --- 
@@ -29,10 +29,11 @@
 - ![Numpy](https://img.shields.io/badge/Python_Library-Numpy-purple)
 - ![SQL](https://img.shields.io/badge/Language-SQL-red)
 
-----
+---
 
 #### ⚡ Fun fact:
-   Did you know 111,111,111 x 111,111,111 = 12,345,678,987,654,321? 🤓
+##### Did you know 111,111,111 x 111,111,111 = 12,345,678,987,654,321? 🤓
+   
 ---
 
 <h3 align="left">Languages and Tools:</h3>
