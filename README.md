@@ -12,7 +12,7 @@
 
 ---  
 
-#### Languages and Tools
+#### 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -26,8 +26,6 @@
 #### 🔭 I’m currently working on:
 - Completing the Codeup Data Science program
    -  Graduating June 16, 2022  🙌
-
-- Getting more acquainted with Spark 
 
 ---
 
