@@ -37,7 +37,7 @@
 - ![Python](https://img.shields.io/badge/Language-Python-yellow)
 - ![Pandas](https://img.shields.io/badge/Python_Library-Pandas-blue)
 - ![Numpy](https://img.shields.io/badge/Python_Library-Numpy-purple)
-- ![Sci-kit](https://img.shields.io/badge/Python_Library-Scikit\-Learn-green)
+- ![Sci-kit](https://img.shields.io/badge/Python_Library-Scikit-Learn-green)
 - ![SQL](https://img.shields.io/badge/Language-SQL-red)
 
 ----
