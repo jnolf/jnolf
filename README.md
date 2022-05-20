@@ -12,6 +12,10 @@
 
 --- 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnolf&show_icons=true&locale=en&layout=compact" alt="jnolf" /></p>
+
+---
+
 #### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,10 +26,6 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 --- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnolf&show_icons=true&locale=en&layout=compact" alt="jnolf" /></p>
-
----
 
 #### 🔭 I’m currently working on:
 - Completing the Codeup Data Science program.
