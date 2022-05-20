@@ -2,8 +2,8 @@
 ---
 
 📫 ***Feel free to reach out:***
-- ✨ Email: nolf.jerry@gmail.com
-- ✨ Click 👉 [here](https://www.linkedin.com/in/jerrynolf) 👈 for my LinkedIn
+- ✨ The easiest way to reach me is by email: nolf.jerry@gmail.com
+- ✨ Click [here](https://www.linkedin.com/in/jerrynolf) to check out my LinkedIn
 --- 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnolf&show_icons=true&locale=en" alt="jnolf" /></p>
