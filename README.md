@@ -10,11 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnolf&label=Profile%20views&color=0e75b6&style=flat" alt="jnolf" /> </p>
 
---- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnolf&show_icons=true&locale=en&layout=compact" alt="jnolf" /></p>
-
---- 
+---  
 
 #### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +26,7 @@
 #### 🔭 I’m currently working on:
 - Completing the Codeup Data Science program.
 
----
+---x
 
 #### 🌱 I’m currently learning...
 - Spark
